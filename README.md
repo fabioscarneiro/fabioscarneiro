@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub :octocat:
 
 :school_satchel: Sou estudante de Análise e Desnvolvimento de Sistemas pelo IFSP. </br>
-🔭 Atualmente estou trabalhando como desenvolvedor júnior na [Usina de Códigos](https://www.linkedin.com/company/usina-de-codigos/) </br>
+🔭 Atualmente estou trabalhando como desenvolvedor na [Kron Digital]([https://www.linkedin.com/company/usina-de-codigos/](https://www.kron.digital/)) </br>
 :house_with_garden: Tenho 25 anos e sou morador de Piracicaba, interior de São Paulo.
 
  ### Estatísticas do Github
